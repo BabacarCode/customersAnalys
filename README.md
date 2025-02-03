@@ -19,11 +19,16 @@ Les visualisations incluent :
 - Diagrammes circulaires : Répartition du genre et des tranches d'âge.
 - Histogrammes : Distribution des dépenses pour chaque genre.
   #### Exemple de visualisation:
-  - Diagramme en barres - Révenu annuel et Dépenses par tranche d'âge
-    ![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
-
-  - Diagramme circulaire - Répartition des genres
-  - Histogramme - Distribution des dépenses pour les jeunes
+  - Diagramme en barres et circulaire - Révenu annuel et Dépenses par tranche d'âge
+![Révenu annuel et Dépenses par genre](images/images/Salaire_et_Score_de_Dépenses_par_Genre.png)
+![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
+  - Histogramme - Distribution des dépenses et la répartition des genres : 
+     - pour les jeunes :
+![Distribution des dépenses et la répartition des genres](/images/.ipynb_checkpoints/Répartition_des_genres_chez_les_Jeunes-checkpoint.png)
+    - Pour les Adultes:
+![Distribution des dépenses et la répartition des genres](images/Distribution_etRépartition_des_genres_po_les_Adultes.png)
+    - Pour les Séniors:
+![Distribution des dépenses et la répartition des genres](images/Distribution_etRépartition_des_genres_po_les_seniors.png)
 
 ## Installation
 1. Clonez ce dépôt :
