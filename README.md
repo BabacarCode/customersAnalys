@@ -19,14 +19,41 @@ Les visualisations incluent :
 - Diagrammes circulaires : Répartition du genre et des tranches d'âge.
 - Histogrammes : Distribution des dépenses pour chaque genre.
   #### Exemple de visualisation:
-  - Diagramme en barres - Révenu annuel et Dépenses par tranche d'âge
-    ![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
+  - Diagramme en barres et circulaire - Révenu annuel et Dépenses par tranche d'âge
+![Révenu annuel et Dépenses par genre](images/Salaire_et_Score_de_Dépenses_par_Genre.png)
 
-  - Diagramme circulaire - Répartition des genres
-  - Histogramme - Distribution des dépenses pour les jeunes
+-
+![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
+  - Histogramme - Distribution des dépenses et la répartition des genres : 
+     - pour les jeunes :
+![Distribution des dépenses et la répartition des genres](/images/.ipynb_checkpoints/Répartition_des_genres_chez_les_Jeunes-checkpoint.png)
+    - Pour les Adultes:
+![Distribution des dépenses et la répartition des genres](images/Distribution_etRépartition_des_genres_po_les_Adultes.png)
+    - Pour les Séniors:
+![Distribution des dépenses et la répartition des genres](images/Distribution_etRépartition_des_genres_po_les_seniors.png)
+
+
+# Insights clés
+- Relation entre revenu annuel et score de dépense :
+Aucun lien significatif : le score de dépense semble indépendant du revenu.
+- **Influence de l'âge et du genre sur les dépenses :**
+    - Les jeunes (<30 ans) dépensent davantage malgré un revenu annuel moyen.
+    - Les femmes dominent les scores de dépense dans toutes les catégories, sauf chez les seniors, où les hommes ont un score supérieur dans l'intervalle [41 à 60].
+- **Répartition démographique des adultes :**
+    - **La catégorie adulte (30 à 59 ans)** constitue 62.5% des clients, avec une répartition de 60% de femmes et 40% d'hommes.
+    - Cette catégorie affiche les salaires les plus élevés, mais un score de dépense moyen de 50.
+- **Comportement des hommes selon l'âge :**
+Les hommes jeunes (47.3%) dépensent davantage que leurs homologues féminins, mais perdent cette domination dans les catégories suivantes, à l'exception des seniors.
 
 ## Installation
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/BabacarCode/customersAnalys.git
+2. Accédez au répertoire du projet :
+    ```bash
+    cd customersAnalys
+3. Installez les dépendances requises :
+    ```bash
+    pip install -r requirements.txt
+
 
