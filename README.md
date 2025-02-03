@@ -49,4 +49,11 @@ Les hommes jeunes (47.3%) dépensent davantage que leurs homologues féminins, m
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/BabacarCode/customersAnalys.git
+2. Accédez au répertoire du projet :
+    ```bash
+    cd customersAnalys
+3. Installez les dépendances requises :
+    ```bash
+    pip install -r requirements.txt
+
 
