@@ -18,8 +18,10 @@ Les visualisations incluent :
 - Diagrammes en barres : Comparaison des scores de dépenses et des revenus en fonction du sexe, ainsi que des scores de dépenses pour chaque tranche d'âge (jeune, adulte et senior).
 - Diagrammes circulaires : Répartition du genre et des tranches d'âge.
 - Histogrammes : Distribution des dépenses pour chaque genre.
-  #### Exemple:
-  - Diagramme en barres - Dépenses par tranche d'âge
+  #### Exemple de visualisation:
+  - Diagramme en barres - Révenu annuel et Dépenses par tranche d'âge
+    ![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
+
   - Diagramme circulaire - Répartition des genres
   - Histogramme - Distribution des dépenses pour les jeunes
 
