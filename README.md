@@ -24,6 +24,7 @@ Les visualisations incluent :
   - Histogramme - Distribution des dépenses pour les jeunes
 
 ## Installation
-1.Clonez ce dépôt en exécutant la commande suivante :
-     ```bash
-     git clone https://github.com/BabacarCode/customersAnalys.git
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/BabacarCode/customersAnalys.git
+
