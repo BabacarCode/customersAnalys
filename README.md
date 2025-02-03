@@ -21,6 +21,8 @@ Les visualisations incluent :
   #### Exemple de visualisation:
   - Diagramme en barres et circulaire - Révenu annuel et Dépenses par tranche d'âge
 ![Révenu annuel et Dépenses par genre](images/images/Salaire_et_Score_de_Dépenses_par_Genre.png)
+
+-
 ![Révenu annuel et Dépenses par tranche d'âge](images/Répartition_des_tranches_âge.png)
   - Histogramme - Distribution des dépenses et la répartition des genres : 
      - pour les jeunes :
