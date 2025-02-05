@@ -8,10 +8,22 @@ Ce projet vise à analyser le comportement des clients afin de déterminer si de
 - Visualiser les corrélations existantes entre les différentes variables.
 
 ## Résultats Clés
-- Aucune relation significative n'a été observée entre le revenu annuel et le score de dépenses.
-- L'âge et le genre influencent le comportement de dépense :
-    - Les jeunes (<30 ans) dépensent davantage malgré un revenu annuel moyen.
-    - Les femmes sont plus nombreuses que les hommes : elles représentent 60% des catégories adultes et seniors. Chez les jeunes, elles représentent 52.7% et dominent les scores de dépense dans toutes les catégories, sauf chez les seniors, où les hommes affichent des scores de dépense plus élevés.
+- **Revenu annuel et score de dépense :** Aucune relation significative n'a été observée.
+- **Influence de l'âge sur les dépenses :** Les jeunes (<30 ans) dépensent davantage malgré un revenu annuel moyen.
+- **Répartition selon le genre :** Les femmes représentent 60% des catégories adultes et seniors.
+  Chez les jeunes, elles représentent 52.7% et dominent les scores de dépense dans toutes les catégories, sauf chez les seniors où les hommes affichent des scores de dépense plus élevés.
+
+## Insights Clés
+-    **Revenu annuel et dépenses :** Le score de dépense semble indépendant du revenu annuel, ce qui peut suggérer que d'autres facteurs (psychologiques ou comportementaux) influencent davantage les décisions d'achat.
+- **Influence de l'âge et du genre :**
+    - **Les jeunes (<30 ans)** montrent une forte propension à dépenser, indépendamment de leur revenu.
+    - **Les femmes** dominent les scores de dépense dans toutes les catégories, sauf chez les seniors (où les hommes ont un score supérieur dans l'intervalle [41 à 60]).
+- **Répartition démographique des adultes (30 à 59 ans) :**
+
+    - **Cette catégorie** constitue 62.5% des clients, avec une prédominance de 60% de femmes.
+    - **Les adultes** affichent les salaires les plus élevés, mais un score de dépense moyen de 50.
+
+- **Comportement des hommes selon l'âge :** Les hommes jeunes (47.3%) dépensent davantage que leurs homologues féminins, mais perdent cette domination dans les catégories suivantes, à l'exception des seniors.
 
 ## Visualisations
 Les visualisations incluent :
@@ -32,18 +44,6 @@ Les visualisations incluent :
     - Pour les Séniors:
 ![Distribution des dépenses et la répartition des genres](images/Distribution_etRépartition_des_genres_po_les_seniors.png)
 
-
-# Insights clés
-- Relation entre revenu annuel et score de dépense :
-Aucun lien significatif : le score de dépense semble indépendant du revenu.
-- **Influence de l'âge et du genre sur les dépenses :**
-    - Les jeunes (<30 ans) dépensent davantage malgré un revenu annuel moyen.
-    - Les femmes dominent les scores de dépense dans toutes les catégories, sauf chez les seniors, où les hommes ont un score supérieur dans l'intervalle [41 à 60].
-- **Répartition démographique des adultes :**
-    - **La catégorie adulte (30 à 59 ans)** constitue 62.5% des clients, avec une répartition de 60% de femmes et 40% d'hommes.
-    - Cette catégorie affiche les salaires les plus élevés, mais un score de dépense moyen de 50.
-- **Comportement des hommes selon l'âge :**
-Les hommes jeunes (47.3%) dépensent davantage que leurs homologues féminins, mais perdent cette domination dans les catégories suivantes, à l'exception des seniors.
 
 ## Installation
 1. Clonez ce dépôt :
